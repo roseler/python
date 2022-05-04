@@ -1,2 +1,2 @@
 # python
-a simple python game of rock paper scissors but filipino version
+a simple python programs for beginners
